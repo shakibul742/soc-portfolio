@@ -11,7 +11,6 @@ This repository documents my daily learning and practice as a beginner SOC analy
 - Challenges
 
 ## Learning Platforms
-- TCM Security – SOC 101
 - LetsDefend – SOC Analyst Path
 
 ## Repository Structure
